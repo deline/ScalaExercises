@@ -9,7 +9,7 @@ import org.junit.Test
  * Date: 15/12/2013
  * Time: 1:28 PM
  */
-class P3Exercise$Test extends AssertionsForJUnit {
+class P3ExerciseTest extends AssertionsForJUnit {
 
   @Test
   def builtIn() {
